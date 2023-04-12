@@ -1,3 +1,5 @@
+# This repo has been moved and is no longer being maintained in this location.  Please visit https://github.com/f5devcentral/f5xc-aws-ce-multinic for the latest updates.
+
 # F5XC AWS CE MULTINIC
 
 ## Introduction
